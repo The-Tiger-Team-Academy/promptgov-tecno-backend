@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crucial-robot-404613",
+  "private_key_id": "49d28bce0e383d19b7a9dd2ca1a3a307e0f226c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjLOT8TpQRkebW\n/NFXrn655uvt9i4OfPV2MB4qJ+6A9J7F9gMcCmJ3HajdXiA0Ww0xVWvGEZKITQJ0\neORlUjZrKmLC5s98Lmf79lT+AQblHqxHtxv7uaycHL9/LzTazXogEQF5+BZvG8aZ\nhTMauKy/DrxBbMcA75HfJ9blxh4Z1sMmA+CmBWSDxX+EvQ21XIT0dZdzyIgNsTWI\nZ4pcWQ5DcK6F5N8YJwLHm9qKI58jfaiOoqm6JOdYBVH/bAZw5wmCfYx2ygo0LChW\nrT9H1z01JUZNBqa+EMdXf0pfM2/89XaYscxW4/gPd3jsnYc+Z0SzEoFrfbNIFr9W\n5jUhSBExAgMBAAECggEABdcdLwak+BKvyhwXELtXH9JAZC5T1wLpSjH4smuRdsjK\nnK1BzpF0lWzYrBZVXWpbiNt/gFcFVp7i//Dfw9ydxAIqshfOxKlojAp0tPlWb4GZ\n4Es704EBc5OigFaGiW+h97SEHVh1fRk9EiZD/lMuePwkXXcbkaYBeOo/ynjn1Obd\n76veOPEOFmRoJ6om1txLOixZj8+LZzhkFE1VNSDLYi0K1NvmTpHRU/ca1GzKWmHk\nTcVuCBqi8F5DXtuIHVmvXD6Dt/ySI/r//MLn/SxZLfX3+u///6ZNpmZ0WjuhWEw3\nNZHBCXt/6/63IzAMlXY4XrNGXBnwOstNbXUMlWAeDQKBgQDVV+cyNVdDvyiNfQdS\nI1jtH7JOM4lr2HQGPzPrsGjx4q4iynAPdilBFFSophISshV425msvz00pyhV3t3Y\ncldyMwZGAEL0HvZ0D0/3Is0jQoCLScyIe+0ao209LcgXqw0ILFt9zYRpPyZ+vO4Q\nQTaHX7gEQkZ+5KRtyiH/q6BCCwKBgQDDzR1iWxO7VJ7ZpfZJe+rYf6U6wSmfhqRA\nIGl6Y0CP4oz1Y1bHuUKiLuuBZO2z99+53iMX85e7Yo2iVI1F8dmeKEybR+T3iXZR\nK/I1eTho7fiEotMQJSYK/n2m0eO7tzL0B+X5fiVz4CT6/0fhx17i/Jd0K7F5pavY\nnY7WEENbMwKBgDLKFH49eKLmNU9Jvp5tT9RTwW0gk8ya4TRDg6bOfo1nO7GIpBjq\nNnQJ1QW5U4Aj6Ty2euVHOdj5Gn8m6YWH4w2K3Cl6EnZvkJictJrPLCsCv/to/EpZ\nxl6bHXx9E6+exyF0/er7LFSp9g4iCELSY5rizLom1QWMhSCmCGYHg8V1AoGAYwvf\nUWHBGYI02OSbMZD9u4bWjmIoLApwDABZWw/aGO8BXyBhRabxjhkuCMaFeARrqBo2\npmcS2jeAbh1XWYp+CwNXvTUhHhbrQyR34ZTwdCPtEytKmWAxXl5eMYT7Lnn9zHQy\nYYLuby9zhYSdWBkCZtBfzORNYrvrsigBmUegywECgYEAlWu87H5qiXS0+3NCZNvu\niKN67EBEMtvhGV3kRvdvgrpXyEsq8FmiIavfcNtcl8wQQo4f1kXXbTcnnBKsrO5h\n9I+T9MilsmtFTQ4j0YeiN8SfbcJbckCivRkluKEAh7+te8jlAkkAuD/5+XfBmpVj\n7tL0He0q1WLpeO6q6Aj56dI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "prompttecno@crucial-robot-404613.iam.gserviceaccount.com",
+  "client_id": "104227695947947255486",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prompttecno%40crucial-robot-404613.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
