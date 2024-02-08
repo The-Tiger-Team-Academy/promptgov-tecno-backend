@@ -36,7 +36,7 @@ jobs:
         --region asia-southeast1 \
         --platform managed \
         --allow-unauthenticated \
-        --set-env-vars OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }},GOOGLE_API_KEY=${{ secrets.GOOGLE_API_KEY }},MONGO_URL=${{ secrets.MONGO_URL }} \
+        --set-env-vars MONGO_URL=${{ secrets.MONGO_URL }} \
         --max-instances=10 \
         --memory 1Gi
 
