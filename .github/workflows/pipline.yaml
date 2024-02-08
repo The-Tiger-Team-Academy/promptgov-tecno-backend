@@ -29,16 +29,13 @@ jobs:
         docker build -t gcr.io/${{ secrets.GCP_PROJECT_ID }}/prompt-tecno:${{ github.sha }} .
         docker push gcr.io/${{ secrets.GCP_PROJECT_ID }}/prompt-tecno:${{ github.sha }}
 
-    - name: Deploy to Cloud Run
+    - name:  Cloud Run
       run: |
         gcloud run deploy prompt-tecno \
         --image gcr.io/${{ secrets.GCP_PROJECT_ID }}/prompt-tecno:${{ github.sha }} \
-        --region asia-southeast1 \
+        --region asia-southeast1  \
         --platform managed \
         --allow-unauthenticated \
         --set-env-vars MONGO_URL=${{ secrets.MONGO_URL }} \
         --max-instances=10 \
         --memory 1Gi
-
-
-       
