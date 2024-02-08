@@ -8,12 +8,12 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+s: actions/checkout@v2
 
+    - name: Set u
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
-
-    - name: Set up Google Cloud SDK
+      usep Google Cloud SDK
       uses: google-github-actions/setup-gcloud@v0.3.0
       with:
         project_id: ${{ secrets.GCP_PROJECT_ID }} 
