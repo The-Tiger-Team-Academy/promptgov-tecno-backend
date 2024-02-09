@@ -36,6 +36,6 @@ jobs:
         --region asia-southeast1  \
         --platform managed \
         --allow-unauthenticated \
-        --set-env-vars MONGO_URL=${{ secrets.MONGO_URL }} \
+        --set-env-vars MONGO_URL=${{ secrets.MONGO_URL }} OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }} \
         --max-instances=10 \
         --memory 1Gi
