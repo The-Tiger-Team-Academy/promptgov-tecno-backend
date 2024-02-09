@@ -7,7 +7,7 @@ import os
 
 # Initialize Google Cloud Storage Client
 storage_client = storage.Client.from_service_account_json("storage-admin.json")
-bucket_name = "promptgov-public-tecno"
+bucket_name = "tecno-public"
 
 router = APIRouter(
     tags=["Create Services"],
